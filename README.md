@@ -18,7 +18,7 @@ Pipeline templates using [Shared Libraries](https://jenkins.io/doc/book/pipeline
 We are going to cover and explain the pipeline templates made by the Application Development Center of Excellence.
 The pipelines are used with the Jenkins PiPipelines are going to be used with [Shared Libraries](https://jenkins.io/doc/book/pipeline/shared-libraries/). This allows to reuse the pipelines across projects and have them controlled in our git repository.
 The following sections have all the information or steps that are required to launch the pipelines and explain what does each of the templates.
-The shared pipeline templates can bee seen as a small pieces that can be used all together to achieve the CI/CD process in Openshift.
+The shared pipeline templates can be seen as a small pieces that can be used all together to achieve the CI/CD process in Openshift.
 
 ## Sections
 - [Setup](sections/setup.md)
